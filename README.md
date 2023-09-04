@@ -1,4 +1,4 @@
-# games
+# Welcome to TUJ Game Production Club
 
 Hello and Welcome to TUJ Game Production Club!
 
